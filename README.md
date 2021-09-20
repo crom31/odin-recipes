@@ -1,3 +1,2 @@
 # odin-recipes
-
-In this project I worked with HTML only, practicing writing the boilerplate, addind images and making lists. Working with Git it's something that with practice will come more naturally to me. 
+In this project I worked with HTML and tried to give it some style with the very basic kwnoledge I have of CSS. Practiced writing the boilerplate, linking images, css styles and making lists
